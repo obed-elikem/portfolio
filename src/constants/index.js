@@ -74,7 +74,7 @@ export const PROJECTS = [
 ];
 
 export const CONTACT = {
-  address: "AU116 Liberty Rd, Adenta, Accra ",
+  address: "Accra, Ghana ",
   phoneNo: "+233 54 974 2165 ",
   email: "obedgbagbe@gmail.com "
 };
