@@ -5,7 +5,7 @@ import project4 from "../assets/projects/project-4.png";
 
 export const HERO_CONTENT = `I am a passionate front-end developer with a knack for crafting robust and scalable web applications. With hands-on experience, I have honed my skills in front-end technologies like React, JavaScript, CSS3 and HTML5. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.`;
 
-export const ABOUT_TEXT = `I am a dedicated and versatile front-end developer with an eye for design and aesthetics, which seamlessly translates into my approach to programming. Just like an artist brings their imagination to life on a canvas, I enjoy bringing designs to life through programming, infusing them with functionality and interactivity.
+export const ABOUT_TEXT = `I am a dedicated and versatile front-end developer with an eye for design and aesthetics, which seamlessly translates into my approach to programming. Like an artist who brings their imagination to life on a canvas, I enjoy bringing designs to life through programming, infusing them with functionality and interactivity.
 
 This unique blend of creativity and technical proficiency allows me to craft user experiences that are not only visually engaging but also intuitive and efficient. By combining my interests in design and programming, my goal is to create software solutions that not only solve problems but also inspire and delight users.
 
@@ -24,13 +24,13 @@ export const EXPERIENCES = [
     role: "Software Developer",
     company: "Accra Technical University",
     description: `Collaborated in a team to develop a responsive hospital management system. Designed a user-friendly interface with HTML and CSS, implemented interactive features using PHP, and created a MySQL database to manage patient, doctor, and appointment data effectively.`,
-    technologies: ["PHP", "HTML", "CSS", "mySQL"],
+    technologies: ["PHP", "HTML", "CSS", "MySQL"],
   },
   {
     year: "July 2023 - Sep 2023",
     role: "RPA Developer Intern",
     company: "Accra Technical University",
-    description: `Collaborated with a team to create an RPA solution using UiPath Studio. Automated the login process on the ATU student website and developed a system to efficiently retrieve and organize individual student scholastic reports, enhancing overall efficiency.`,
+    description: `Collaborated with a team to create an RPA solution using UiPath Studio. Automated the login process on the ATU student website and developed a system to retrieve and organize individual student scholastic reports efficiently, enhancing overall efficiency.`,
     technologies: ["RPA", "UiPath Studio",],
   },
   {
@@ -61,14 +61,14 @@ export const PROJECTS = [
     title: "Front-end Website",
     image: project3,
     description:
-      "A fully functional e-commerce website with features like product listing, shopping cart, and user authentication.",
+      "A fully responsive front-end website ensuring optimal functionality and user experience across various devices and screen sizes.",
     technologies: ["HTML", "CSS"],
   },
   {
     title: "Task Management App",
     image: project4,
     description:
-      "An application for managing tasks and projects, with features such as task creation, assignment, and progress tracking.",
+      "An application for managing tasks and projects, with features such as task creation, task deletion, and progress tracking.",
     technologies: ["HTML", "CSS", "JavaScript"],
   },
 ];
